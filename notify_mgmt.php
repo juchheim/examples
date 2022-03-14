@@ -3,7 +3,7 @@
 # notifies james kenwright of unviewed files
 
 # connection info
-$mysqli = new mysqli("depaemployees.sftp.wpengine.com","depaemployees","x5rSIg_g6uBAVqqZ5Qnq","wp_depaemployees");
+$mysqli = new mysqli("asdf.sftp.wpengine.com","asdf","asdf","wp_depaemployees");
 
 # Check connection
 if ($mysqli -> connect_errno) {
